@@ -1,0 +1,12 @@
+# Vercel
+.vercel
+
+# macOS / Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o de entorno
+*.log
+.env
+.env.*
+
